@@ -7,9 +7,9 @@ Criado com Python 3.7.4 (64-bits)
 
 Para utilizar este repositório é preciso baixar e instalar as bibliotecas necessárias:
 
-  Abra o prompt de comando do Windows
-  Navegue até a pasta descompactada desse repositório: cd Endereço_da_Pasta
-  Digite: pip install -r requirements.txt 
+    Abra o prompt de comando do Windows
+    Navegue até a pasta descompactada desse repositório: cd Endereço_da_Pasta
+   Digite: pip install -r requirements.txt 
 
 Baixar os arquivos de dados da Educação Básica de 2014, 2015, 2016, 2017 e 2018. Esses arquivos estão disponíveis na página do INEP (http://inep.gov.br/dados)
 
