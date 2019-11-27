@@ -6,6 +6,7 @@ Desenvolvido por Cristiane e Diego
 Criado com Python 3.7.4 (64-bits)
 
 Para utilizar este repositório é preciso baixar e instalar as bibliotecas necessárias:
+
   Abra o prompt de comando do Windows
   Navegue até a pasta descompactada desse repositório: cd Endereço_da_Pasta
   Digite: pip install -r requirements.txt 
@@ -15,6 +16,7 @@ Baixar os arquivos de dados da Educação Básica de 2014, 2015, 2016, 2017 e 20
 Para a análise, descompactar dentro da pasta do repositório apenas os dados relativos as Matrículas de todas as regiôes.
 
 Renomear os arquivos no seguinte padrão REGIÃO_2018.CSV:
+
     MATRICULAS_CO.CSV (dados de 2018) para CENTRO-OESTE_2018.CSV
     MATRICULAS_CO.CSV (dados de 2018) para NORDESTE_2018.CSV
     MATRICULAS_CO.CSV (dados de 2018) para NORTE_2018.CSV
