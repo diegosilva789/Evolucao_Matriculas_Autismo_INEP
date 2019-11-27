@@ -1,15 +1,16 @@
-# EvolucaoMatriculasEnsFundAutismo
-Evolução do número de matrículas de crianças diagnosticadas com autismo do 1º ao 5º ano do Ensino Fundamental
+**Evolução do número de matrículas de crianças diagnosticadas com autismo do 1º ao 5º ano do Ensino Fundamental**
 
 Desenvolvido por Cristiane e Diego
 
 Criado com Python 3.7.4 (64-bits)
 
+Instruções de Uso
+
 Para utilizar este repositório é preciso baixar e instalar as bibliotecas necessárias:
 
     Abra o prompt de comando do Windows
     Navegue até a pasta descompactada desse repositório: cd Endereço_da_Pasta
-   Digite: pip install -r requirements.txt 
+    Digite: pip install -r requirements.txt 
 
 Baixar os arquivos de dados da Educação Básica de 2014, 2015, 2016, 2017 e 2018. Esses arquivos estão disponíveis na página do INEP (http://inep.gov.br/dados)
 
