@@ -54,6 +54,6 @@ Gráfico das evoluções de todo o Brasil, o repositório apresenta os dados por
 
 ![Repo List](brasil_barras.png)
 
-Gráfico em ordem crescente
+Gráfico em ordem crescente:
 
 ![Repo List](brasil_linhas.png)
