@@ -50,7 +50,10 @@ D - Renomear os arquivos no seguinte padrão REGIÃO_2018.CSV:
     
 E - Por fim feitos todos os procedimentos digitar no Prompt de Comando: jupyter notebook
 
-Gráfico das evoluções dos Brasil, o repositório apresenta os dados por região:
+Gráfico das evoluções de todo o Brasil, o repositório apresenta os dados por região:
 
-![Repo List].(brasil_barras.png)
+![Repo List](brasil_barras.png)
 
+Gráfico em ordem crescente
+
+![Repo List](brasil_linhas.png)
