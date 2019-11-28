@@ -49,3 +49,8 @@ D - Renomear os arquivos no seguinte padrão REGIÃO_2018.CSV:
     MATRICULAS_CO.CSV (dados de 2014) para SUL_2014.CSV
     
 E - Por fim feitos todos os procedimentos digitar no Prompt de Comando: jupyter notebook
+
+Gráfico das evoluções dos Brasil, o repositório apresenta os dados por região:
+
+![Repo List].(brasil_barras.png)
+
